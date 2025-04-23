@@ -57,6 +57,5 @@ Year HTSA Revision(s) Description Relevance to US-China Trade War
 
 ---
 
-🧼 All datasets have been preprocessed and cleaned using Python (Pandas), ensuring consistent formats, unified date ranges, and standardized column naming. Detailed preprocessing notebooks are available in the `notebooks/` directory.
-
+All datasets have not been preprocessed and cleaned.
 
