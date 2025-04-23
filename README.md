@@ -9,7 +9,7 @@ This project is built on a diverse set of data sources that capture the multi-di
 - **Files:**  
   - `TradeData_USA_China.csv` — US-reported trade flows with China  
   - `TradeData_China_USA.csv` — China-reported trade flows with the US
-- **Years Covered:** 2018–2023  
+- **Years Covered:** 2018–2025
 - **Content:** Annual import/export values per product (HS code), reported by each country.
 - **Purpose:** Analyze trade volume shifts, identify trade imbalances, and cross-check reporting differences between the US and China.
 
