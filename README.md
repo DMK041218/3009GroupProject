@@ -1,6 +1,6 @@
 ## 📦 Data Overview
 
-This project is built on a diverse set of data sources that capture the multi-dimensional impact of the US-China trade war from 2018 to 2023. The data falls into four primary categories:
+This project is built on a diverse set of data sources that capture the multi-dimensional impact of the US-China trade war from 2017 to 2021. The data falls into four primary categories:
 
 ---
 
